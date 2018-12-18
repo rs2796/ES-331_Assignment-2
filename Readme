@@ -1,6 +1,6 @@
 Some Important points:
 1.numpy and matplotlib should be installed before running the code.
-2. The uswr has to input 2 integers which are length which is the length of the signal upto which the user want to go and the second is iterations.
+2.The user has to input 2 integers, first one is length of the signal upto which the user want to go and the second is iterations.
 Iterations is the number of times user wants to check whether the signal is mere noise or there is something from which it is relected. Iterations is used for the Accuracy Vs No. of samples graph.
 3. The user will get two graphs as output:
 	First is Sample mean Vs No. of samples.
